@@ -23,6 +23,7 @@ public class ZombieAttack2 {
                         inhabitants[i + 1] /= 2;
                         i += 1;
                     }
+                    //idemo sada
                 }
             }
             cnt++;
